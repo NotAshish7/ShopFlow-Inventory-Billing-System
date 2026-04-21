@@ -375,7 +375,7 @@ Please keep contributions scoped and well-commented. Large refactors should be d
 ## 👨‍💻 Author
 
 **Ashish** — Java Programming Mini Project  
-B.Tech / BCA Student | Passionate about building practical software
+BCA Student | Passionate about building practical software
 
 ---
 
@@ -392,6 +392,6 @@ MIT License — Copyright (c) 2026 Ashish
 <div align="center">
 
 ⭐ **If this project helped you, please give it a star!** ⭐  
-*Built with ❤️ using pure Java*
+*Built with ❤️ *
 
 </div>
